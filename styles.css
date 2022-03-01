@@ -1,0 +1,54 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #8C503A;
+  margin: 0px;
+}
+
+.body-container {
+  max-width: 800px;
+  margin: 0px auto;
+  background-color: #D9CCC1;
+  padding: 40px;
+  padding-top: 20px;
+  border: #023E73 inset 10px;
+}
+
+.source-link {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #023E73;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  display: block;
+  max-width: 800px;
+  margin: 0 auto;
+  border: #BF6415 outset 8px;
+  box-sizing: border-box;
+}
+
+.recipe-image {
+  width: 100%;
+  max-width: 500px;
+}
+
+h2, h3 {
+  color: #024059;
+}
+
+li {
+  margin: 5px 0px;
+}
+
+/* Color Theme Swatches in Hex */
+/* .LATTICE80-1-hex { color: #023E73; }
+.LATTICE80-2-hex { color: #024059; }
+.LATTICE80-3-hex { color: #BF6415; }
+.LATTICE80-4-hex { color: #D9CCC1; }
+.LATTICE80-5-hex { color: #8C503A; } */
